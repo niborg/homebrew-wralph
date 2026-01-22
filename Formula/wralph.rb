@@ -3,9 +3,9 @@
 class Wralph < Formula
   desc 'Workflow Ralph - Human-In-The-Loop AI Factory'
   homepage 'https://github.com/niborg/wralph'
-  version '0.1.0'
-  url "https://github.com/niborg/wralph/archive/refs/tags/0.1.0.tar.gz"
-  sha256 '8e5c52da5fb8d6c52e94c8ad47bbc78943b45829c840232468d5a2a9af0d3462'
+  version '0.1.1'
+  url "https://github.com/niborg/wralph/archive/refs/tags/v#{version}.tar.gz"
+  sha256 '9718ad8df4e26881c8fd4d460806842f158df88c90cd98923d582b58eb12db4a'
   license 'MIT'
 
   depends_on 'ruby'
